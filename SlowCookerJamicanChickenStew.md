@@ -1,4 +1,4 @@
-# Example Recipe (Slow Cooker Jamican Chicken Stew)
+# Slow Cooker Jamican Chicken Stew
 
 By Jed Meier
 
