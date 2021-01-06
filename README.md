@@ -5,3 +5,4 @@ A collection of healthy, tasted-tested recipes among friends. Please open [PR](h
 # Format
 
 Each recipe should be its own file and be named the recipe's name.
+
